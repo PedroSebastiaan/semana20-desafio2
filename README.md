@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Gems
 
-Things you may want to cover:
+Gems added to this proyect are:
 
-* Ruby version
+```bash
+# Bootstrap dependences
+gem "bootstrap", "~> 5.1"
+gem "jquery-rails", "~> 4.4"
 
-* System dependencies
+# Faker generator
+gem "faker", "~> 2.19"
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Chartkick dependences
+gem "chartkick", "~> 4.0"
+gem "groupdate", "~> 5.2"
+```
