@@ -1,5 +1,8 @@
 {
   "name": "coffee-shop",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "chart.js": "^3.6.0",
+    "chartkick": "^4.1.0"
+  }
 }
